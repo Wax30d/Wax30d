@@ -1,18 +1,17 @@
 ### Hi there friends 👋
 
 
-**Wax30d/Wax30d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Ideal Green Light.
+- 🌱 I’m currently learning AI.
+- 👯 I’m looking to collaborate on developing website and making cool desktop applications.
+- 🤔 I’m looking for help with coding.
+- 💬 Ask me about GCP and AWS :)
+- 📫 How to reach me: [My Telegram](https://t.me/Wax30d/).
+- 😄 Pronouns: Prince.
+- ⚡ Fun fact: AI/ML is coming!
 
 
 
