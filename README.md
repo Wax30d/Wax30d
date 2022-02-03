@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Ideal Green Light.
 - 🌱 I’m currently learning AI.
-- 👯 I’m looking to collaborate on developing website and making cool desktop applications.
+- 👯 I’m looking to collaborate on developing websites and making cool desktop applications.
 - 🤔 I’m looking for help with coding.
 - 💬 Ask me about GCP and AWS :)
 - 📫 How to reach me: [My Telegram](https://t.me/Wax30d/).
