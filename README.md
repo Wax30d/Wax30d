@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <img 
-   src="https://github-readme-status.vercel.app/api?username=Wax30d&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=Wax30d&show_icons=true&theme=tokyonight" 
 />
