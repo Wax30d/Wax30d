@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with coding.
 - 💬 Ask me about GCP and AWS :)
 - 📫 How to reach me: [My Telegram](https://t.me/Wax30d/).
-- 😄 Pronouns: Prince.
+- 😄 Pronouncing my First name: Prince.
 - ⚡ Fun fact: AI/ML is coming!
 
 
