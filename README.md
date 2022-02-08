@@ -1,7 +1,7 @@
 ### Hi there friends 👋
 
 
-**Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications.
+**Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications using PyQt.
 
 
 - 🔭 I’m currently working on Ideal Green Light.
