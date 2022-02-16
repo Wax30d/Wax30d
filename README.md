@@ -16,7 +16,9 @@ I love developing efficient systems, contributing to different projects and crea
 ***Want to hire me for your next project. Lets connect.***
 You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wax30d&layout=compact" alt='Wax30d Top Languages' align="center" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wax30d&show_icons=true&theme=tokyonight" />
+
 
 **Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications using PyQt.
 
@@ -34,6 +36,4 @@ You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
 Feel free to look around my repos and check my recent work😉
   
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=Wax30d&show_icons=true&theme=tokyonight" 
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wax30d&layout=compact" alt='Wax30d Top Languages' align="center" />
