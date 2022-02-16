@@ -15,7 +15,7 @@ I love writing and breaking code , contributing to different projects and creati
 - 📫 How to reach me: [My Telegram](https://t.me/Wax30d/).
 - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
 - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
-- ⚡ Fun fact: AI is coming!
+- 😄 Fun fact: AI is coming!
 
 
 
