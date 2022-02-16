@@ -4,7 +4,7 @@
 
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Wax30d-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wax30d/)](https://www.linkedin.com/in/Wax30d/)
-[![Telegram Badge](https://img.shields.io/badge/-Wax30d-blue?logo=twitter&logoColor=white&link=https://twitter.com/Wax30d)](https://twitter.com/Wax30d)
+[![Telegram Badge](https://img.shields.io/badge/-Wax30d-blue?logo=telegram&logoColor=white&link=https://t.me/Wax30d)](https://t.me/Wax30d)
 [![UpWork Badge](https://img.shields.io/badge/-Wax30d-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0106c98e8bdcff0adf)](https://www.upwork.com/freelancers/~0106c98e8bdcff0adf)
 
 
@@ -23,7 +23,6 @@ You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on developing websites and making cool desktop applications.
 - 💬 Ask me about GCP and Django :)
-- 📫 How to reach me: [My Telegram](https://t.me/Wax30d/).
 - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
 - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
 - 😄 Fun fact: AI is coming!
