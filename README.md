@@ -1,11 +1,22 @@
-### Hi there friends 👋
+### Hi there friends 👋 Welcome to my Github!
 
-I am ***Shakhzodbek Sobitov (@Wax30d)***, I am a tech enthusiast who loves to code in Python and currently working as a Python Developer!
-I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
+<img src="https://komarev.com/ghpvc/?username=Wax30d" alt="profile counter badge" />
+
+### Connect with me
+[![Linkedin Badge](https://img.shields.io/badge/-Wax30d-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Wax30d/)](https://www.linkedin.com/in/Wax30d/)
+[![Telegram Badge](https://img.shields.io/badge/-Wax30d-blue?logo=twitter&logoColor=white&link=https://twitter.com/Wax30d)](https://twitter.com/Wax30d)
+[![UpWork Badge](https://img.shields.io/badge/-Wax30d-green?logo=upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0106c98e8bdcff0adf)](https://www.upwork.com/freelancers/~0106c98e8bdcff0adf)
+
+
+I am ***Shakhzodbek Sobitov (@Wax30d)***, a tech enthusiast who loves to code in Python and currently working as a Python Developer!
+I love developing efficient systems, contributing to different projects and creating cool scripts and applications, integrate various software together to develop intricate solutions, and just anything that's tech.,
+
+
+***Want to hire me for your next project. Lets connect.***
+You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
 
 
 **Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications using PyQt.
-
 
 
 - 🔭 I’m currently working on Ideal Green Light.
