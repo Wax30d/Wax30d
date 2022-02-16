@@ -1,6 +1,7 @@
 ### Hi there friends 👋
 
-I am ***Shakhzodbek Sobitov (@Wax30d)***, I am a tech enthusiast who loves to code in Python and currently working as a Python Developer !
+I am ***Shakhzodbek Sobitov (@Wax30d)***, I am a tech enthusiast who loves to code in Python and currently working as a Python Developer!
+
 I love writing and breaking code , contributing to different projects and creating cool scripts and applications...
 
 **Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications using PyQt.
