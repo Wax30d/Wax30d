@@ -9,6 +9,7 @@
 
 
 I am ***Shakhzodbek Sobitov (@Wax30d)***, a tech enthusiast who loves to code in Python and currently working as a Python Developer!
+
 I love developing efficient systems, contributing to different projects and creating cool scripts and applications, integrate various software together to develop intricate solutions, and just anything that's tech.,
 
 
