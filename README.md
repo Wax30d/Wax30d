@@ -23,10 +23,10 @@ You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
 **Wax30d/PyQtLessons** is a ✨ _special_ ✨ repository because this lesson for learning making desktop applications using PyQt.
 
 
-- 🔭 I’m currently working on Ideal Green Light.
+- 🔭 I’m currently working on SNR.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on developing websites and making cool desktop applications.
-- 💬 Ask me about GCP and Django :)
+- 💬 Ask me about Python and Django :)
 - :zap: I am more of a ***self-learner*** who loves learning things from the internet, any reliable and quality source of information.
 - :open_hands: I hate restricting myself to a single domain and ***I always try to extend my interest in multiple domains***.
 - 😄 Fun fact: AI is coming!
