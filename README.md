@@ -14,7 +14,7 @@ I love developing efficient systems, contributing to different projects and crea
 
 
 ***Want to hire me for your next project. Lets connect.***
-You can email me as well here ***shaxzodbeksobitov33@gmail.com***.
+You can email me as well here ***shaxzodbek_sobitov@mail.ru***.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wax30d&show_icons=true&theme=tokyonight" />
